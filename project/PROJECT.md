@@ -11,9 +11,10 @@ Last updated: 2026-07-13
 
 - 公开仓库：`Syzygys/edgeagent-public-record`。
 - Pages 来源：`main/docs`。
-- 初始内容：2026-07-13 的既有日报模板。
+- 已发布内容：2026-07-11、2026-07-12、2026-07-13 的既有日报模板，本周频率 3 次。
 - 初始机器审查：四个渠道 artifact 均为 `verified_ready`。
-- 实际 Pages URL：部署后通过 GitHub Pages API 回读确认；未回读前不得写成已上线。
+- 实际 Pages URL：`https://syzygys.github.io/edgeagent-public-record/`；Pages API 为 `built`，公开 URL HTTP 200。
+- API 发现入口：GitHub homepage + 6 个 repository topics；计为 1 个真实流量池 listing。
 
 ## 发布规则
 

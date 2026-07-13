@@ -7,7 +7,7 @@ EdgeAgent 的可验证 Web3 公开研究记录与 GitHub Pages 沉淀站。
 - 内容是研究实验，不构成投资建议；在预测账本满足样本与 Brier 门槛前，不宣称存在 edge。
 - 只有通过规则化审查器的既有模板内容才进入本站；新栏目或新平台首发需经过否决窗。
 
-站点：启用 GitHub Pages 后由 `main/docs` 提供。
+站点：https://syzygys.github.io/edgeagent-public-record/ （由 `main/docs` 提供）。
 
 ## 目录
 
