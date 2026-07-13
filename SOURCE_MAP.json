@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0",
+  "repositories": {
+    "Web3": {
+      "repository": "Syzygys/edgeagent-public-record",
+      "ref": "main",
+      "root": ".",
+      "line_url_template": "https://github.com/Syzygys/edgeagent-public-record/blob/main/{path}#L{line}"
+    }
+  }
+}
