@@ -1,0 +1,38 @@
+{
+  "date": "2026-07-17",
+  "source": "content/daily/2026-07-17.md",
+  "created_utc": "2026-07-17T00:06:10.147184+00:00",
+  "status": "verified_ready",
+  "requires_human_publish": false,
+  "content_class": "existing_template",
+  "review_policy": "template_auto",
+  "artifacts": [
+    "farcaster_cast.md",
+    "longform.md",
+    "telegram_post.md",
+    "x_thread.md"
+  ],
+  "verification": {
+    "ok": true,
+    "checked_utc": "2026-07-17T00:06:10.247088+00:00",
+    "validator": "scripts/verify_publication.py",
+    "artifacts": {
+      "farcaster_cast.md": {
+        "ok": true,
+        "errors": []
+      },
+      "longform.md": {
+        "ok": true,
+        "errors": []
+      },
+      "telegram_post.md": {
+        "ok": true,
+        "errors": []
+      },
+      "x_thread.md": {
+        "ok": true,
+        "errors": []
+      }
+    }
+  }
+}
