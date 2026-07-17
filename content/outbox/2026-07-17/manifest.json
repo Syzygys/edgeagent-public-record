@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "source": "content/daily/2026-07-17.md",
-  "created_utc": "2026-07-17T00:29:01.940450+00:00",
+  "created_utc": "2026-07-17T01:04:17.676345+00:00",
   "status": "verified_ready",
   "requires_human_publish": false,
   "content_class": "existing_template",
@@ -14,7 +14,7 @@
   ],
   "verification": {
     "ok": true,
-    "checked_utc": "2026-07-17T00:29:02.048213+00:00",
+    "checked_utc": "2026-07-17T01:04:17.776560+00:00",
     "validator": "scripts/verify_publication.py",
     "artifacts": {
       "farcaster_cast.md": {
